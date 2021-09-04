@@ -1,2 +1,5 @@
-# News-fetch
-This project will tell you the news daily with latest news
+# News Fetch
+this application will help you to see your news daily. there is many section like health and science etc. With latest news. With best news company like bbc news and times of india etc.
+# Contact us
+If you want to contact us then mail on muhammedraiyaan2@gmail.com or contact on github 
+[github profile](https://github.com/muhammedraiyaan2)
